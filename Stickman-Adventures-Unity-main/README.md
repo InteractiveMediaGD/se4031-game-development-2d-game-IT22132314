@@ -1,22 +1,8 @@
-# Stickman Adventures
-This project was developed during the class MCZA032 - Introduction to Game Development at UFABC and it is a 2D game developed with Unity.
-
-<div align="center">
-    <img src="https://i.imgur.com/Hxb1WSe.png" width="420" height="520">
-
-</div>
-
-## Demo
-Demo gameplay: https://youtu.be/Uq7468_4L2E
-
-## Development Setup
-
-- Clone the project: `git clone https://github.com/MaikHenriqueSP/Unity-2D-Game.git`
-- Import the project with Unity: File -> Open Projec
-- Open the cover scene: Assets/Scenes/GameCover.unity
-- Press play
-
-### Disclaimer
-
-This project was developed as a project assignment and therefore is a non-profit application.
+Stickman Adventures is a stylized 2D action-adventure platformer set within the pages of a 
+surreal, hand-drawn sketchbook. Players control a minimalist stickman hero navigating 
+hazardous paper environments, defeating sketchbook monsters, and surviving challenging boss 
+encounters across a mission-based journey. 
+The game combines fast-paced platforming and projectile-based combat. Players must survive 
+diverse levels, engage in dialogue with NPCs to progress the narrative, and eventually defeat 
+powerful bosses to achieve victory in this unique, "sketchy" reality. 
 
